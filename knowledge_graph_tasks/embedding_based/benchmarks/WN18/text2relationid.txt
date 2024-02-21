@@ -1,0 +1,18 @@
+member of domain topic	0
+member meronym	1
+derivationally related form	2
+member of domain region	3
+similar to	4
+hypernym	5
+member holonym	6
+instance hypernym	7
+member of domain usage	8
+synset domain topic of	9
+hyponym	10
+instance hyponym	11
+synset domain usage of	12
+has part	13
+verb group	14
+part of	15
+synset domain region of	16
+also see	17
