@@ -1,0 +1,7 @@
+python t1step3_ER_alignment_1215_WN18.py
+wait
+python t1step3_ER_alignment_1215_WN18_negative_samples.py
+wait
+python t1step4_create_more_hyper_triplets_1215_WN18.py
+wait
+python t1step4_create_more_hyper_triplets_1215_WN18_negative_hg.py
