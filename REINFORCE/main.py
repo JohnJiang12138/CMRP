@@ -1,6 +1,6 @@
 import os
 import random
-random.seed(2023)
+random.seed(2024)
 import sys
 sys.path.append('../')
 import pickle
