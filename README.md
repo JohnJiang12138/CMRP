@@ -1,3 +1,5 @@
+Here's a revised version of your content with a more consistent style:
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -10,36 +12,39 @@
 
 <div align="center">
 
+## Quick Start
 
-# Quick Start
-## Package Dependencies
+### Package Dependencies
 
 - Python 3.10.13
 - PyTorch 2.0.1
 
-for detailed information, please see ``requirements.txt``
+For detailed information, please refer to `requirements.txt`.
 
-## Preparations
+### Preparations
 
-Embedding model T5-Small is used.
+We use the embedding model T5-Small.
 
 ```
 git lfs install
 git clone https://huggingface.co/google-t5/t5-small
 ```
 
-## Preprocessing
+### Preprocessing
 
-Here we preprocess the datasets, prepare embeddings and calculate similarities.
+Preprocess the datasets, prepare embeddings, and calculate similarities as follows:
 
 ```
 cd ./preprocess
 sh preprocess_WN18.sh
 ```
 
-## Start Training
+### Start Training
+
+Initiate training with the following commands:
 
 ```
 cd ../REINFORCE
 sh run_kg_WN18.sh
 ```
+</div>
