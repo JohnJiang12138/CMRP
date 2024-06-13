@@ -1,3 +1,15 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/JohnJiang12138/CMRP">
+    <img height="150" src="Logo.jpg?sanitize=true" />
+  </a>
+</div>
+
+<h3 align="center">⭐️CMRP: Cross-modal Reinforced Prompting for Graph and Language Tasks⭐️</h3>
+
+<div align="center">
+
 # Quick Start
 ## Package Dependencies
 
