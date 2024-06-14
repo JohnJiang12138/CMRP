@@ -1,0 +1,1345 @@
+ location country form of government	0
+ tv tv program regular cast. tv regular tv appearance actor	1
+ media common netflix genre titles	2
+ award award winner awards won. award award honor award winner	3
+ soccer football team current roster. sports sports team roster position	4
+ sports sports position players. soccer football roster position team	5
+ government political district representatives. government government position held legislative sessions	6
+ film film starring. film performance actor	7
+ soccer football team current roster. soccer football roster position position	8
+ film actor film. film performance film	9
+ award award nominated work award nominations. award award nomination award	10
+ award award category nominees. award award nomination nominated for	11
+ organization membership organization members. organization organization membership member	12
+ award award nominee award nominations. award award nomination award nominee	13
+ olympics olympic sport olympic games contested	14
+ music performance role regular performances. music group membership role	15
+ award award category winners. award award honor ceremony	16
+ film film release date s. film film regional release date film release distribution medium	17
+ people marriage union type unions of this type. people marriage spouse	18
+ award award winning work awards won. award award honor award winner	19
+ film film release date s. film film regional release date film release region	20
+ film film language	21
+ music artist genre	22
+ location location containedby	23
+ people person ethnicity	24
+ education educational institution students graduates. education education degree	25
+ award award category nominees. award award nomination award nominee	26
+ award award ceremony awards presented. award award honor award	27
+ location location contains	28
+ organization organization headquarters. location mailing address country	29
+ people person profession	30
+ film film job films with this crew job. film film crew gig film	31
+ people profession people with this profession	32
+ film film costumer designer costume design for film	33
+ location statistical region religions. location religion percentage religion	34
+ film film genre films in this genre	35
+ tv tv genre programs	36
+ award award nominee award nominations. award award nomination award	37
+ music genre artists	38
+ influence influence node influenced by	39
+ education educational institution students graduates. education education student	40
+ organization organization member member of. organization organization membership organization	41
+ people person place of birth	42
+ common topic webpage. common webpage category	43
+ media common netflix title netflix genres	44
+ sports sports position players. american football football historical roster position team	45
+ film film other crew. film film crew gig film crew role	46
+ award award ceremony awards presented. award award honor award winner	47
+ film film country	48
+ olympics olympic sport athletes. olympics olympic athlete affiliation country	49
+ award award winning work awards won. award award honor award	50
+ base schemastaging tv actor extra regular dubbing performances. base schemastaging tv star dubbing performance program	51
+ film film genre	52
+ award award nominated work award nominations. award award nomination award nominee	53
+ film film distributor films distributed. film film film distributor relationship film	54
+ location statistical region rent50 2. measurement unit dated money value currency	55
+ film film estimated budget. measurement unit dated money value currency	56
+ location administrative division second level division of	57
+ government legislative session members. government government position held district represented	58
+ sports sports team roster. american football football historical roster position position s	59
+ government government office category officeholders. government government position held jurisdiction of office	60
+ award award nominee award nominations. award award nomination nominated for	61
+ people deceased person place of death	62
+ music group member instruments played	63
+ film production company films	64
+ sports pro athlete teams. sports sports team roster team	65
+ base schemastaging athlete extra salary. base schemastaging athlete salary team	66
+ music artist track contributions. music track contribution role	67
+ organization organization acquired by. business acquisition acquiring company	68
+ music instrument instrumentalists	69
+ military military combatant military conflicts. military military combatant group conflict	70
+ people person education. education education institution	71
+ award award category winners. award award honor honored for	72
+ people person gender	73
+ business job title people with this title. business employment tenure company	74
+ base popstra celebrity friendship. base popstra friendship participant	75
+ fictional universe fictional character occupation	76
+ education field of study students majoring. education education institution	77
+ business business operation industry	78
+ award award category winners. award award honor award winner	79
+ award award winner awards won. award award honor ceremony	80
+ location hud foreclosure area hhuniv. measurement unit dated integer source	81
+ location us county hud county place	82
+ location statistical region gni in ppp dollars. measurement unit dated money value currency	83
+ people person nationality	84
+ sports sports team roster. baseball baseball roster position position	85
+ music performance role regular performances. music group membership member	86
+ base nobelprizes nobel prize winner nobel honor. base nobelprizes nobel honor subject area	87
+ people cause of death people	88
+ tv tv program languages	89
+ user alexander philosophy subject philosophers	90
+ common annotation category annotations. common webpage topic	91
+ music genre parent genre	92
+ base popstra celebrity breakup. base popstra breakup participant	93
+ influence influence node influenced	94
+ location country capital	95
+ film special film performance type film performance type. film performance film	96
+ olympics olympic participating country athletes. olympics olympic athlete affiliation sport	97
+ film writer film	98
+ soccer football team current roster. sports sports team roster player	99
+ film film starring. film performance character	100
+ location hud county place place	101
+ location country administrative divisions	102
+ organization organization leadership. organization leadership role	103
+ music performance role guest performances. music recording contribution performance role	104
+ location location adjoin s. location adjoining relationship adjoins	105
+ film film subject films	106
+ base schemastaging person extra net worth. measurement unit dated money value currency	107
+ government form of government countries	108
+ education educational institution colors	109
+ base aareas schema administrative area administrative parent	110
+ government political appointer appointees. government government position held basic title	111
+ organization organization sectors	112
+ organization role leaders. organization leadership organization	113
+ location location people born here	114
+ medicine risk factor diseases	115
+ broadcast tv station owner tv stations	116
+ government legislative session members. government government position held legislative sessions	117
+ olympics olympic games sports	118
+ people person places lived. people place lived location	119
+ government legislative session members. government government position held governmental body	120
+ location hud foreclosure area estimated number foreclosures. measurement unit dated integer source	121
+ award award category disciplines or subjects	122
+ sports professional sports team draft picks. sports sports league draft pick school	123
+ olympics olympic participating country medals won. olympics olympic medal honor olympics	124
+ language human language countries spoken in	125
+ symbols namesake named after	126
+ organization organization phone number. common phone number category	127
+ award award winner awards won. award award honor honored for	128
+ people ethnicity people	129
+ fictional universe character occupation characters with this occupation	130
+ architecture museum type of museum	131
+ olympics olympic participating country athletes. olympics olympic athlete affiliation olympics	132
+ olympics olympic participating country medals won. olympics olympic medal honor medal	133
+ film film other crew. film film crew gig crewmember	134
+ olympics olympic games athletes. olympics olympic athlete affiliation sport	135
+ music performance role track performances. music track contribution role	136
+ education school category schools of this kind	137
+ sports sports team roster. sports sports team roster position	138
+ metropolitan transit transit service type transit lines	139
+ music record label artist	140
+ location statistical region rent50 4. measurement unit dated money value currency	141
+ base popstra celebrity dated. base popstra dated participant	142
+ base locations continents countries within	143
+ business employer employees. business employment tenure title	144
+ sports sports league draft picks. sports sports league draft pick school	145
+ music musical group member. music group membership role	146
+ sports sports team sport	147
+ film producer films executive produced	148
+ education educational institution campus educational institution	149
+ sports sports team league. sports sports league participation league	150
+ american football football team current roster. american football football roster position position	151
+ location location events	152
+ people person religion	153
+ organization organization headquarters. location mailing address citytown	154
+ film music contributor film	155
+ music performance role track performances. music track contribution contributor	156
+ film film produced by	157
+ religion religious practice practice of	158
+ architecture museum address. location mailing address citytown	159
+ film film location featured in films	160
+ organization organization founders	161
+ tv special tv performance type starring performances. tv regular tv appearance actor	162
+ astronomy celestial object category	163
+ award award winner awards won. award award honor award	164
+ music artist label	165
+ medicine notable person with medical condition condition	166
+ film producer film	167
+ people person spouse s. people marriage type of union	168
+ film film production companies	169
+ location country second level divisions	170
+ sports sports team roster. soccer football roster position position	171
+ film film directed by	172
+ sports pro athlete teams. soccer football roster position team	173
+ food ingredient compatible with dietary restrictions	174
+ language human language main country	175
+ sports sports team location	176
+ location statistical region rent50 1. measurement unit dated money value currency	177
+ base culturalevent event entity involved	178
+ film film festival event films	179
+ base newsevents news reported event news report s. base newsevents news report news reporting organisation	180
+ education educational degree people with this degree. education education institution	181
+ film film distributors. film film film distributor relationship film distribution medium	182
+ tv tv program tv producer. tv tv producer term producer type	183
+ film film distributors. film film film distributor relationship distributor	184
+ sports sport teams	185
+ music performance role regular performances. music group membership group	186
+ organization organization phone number. common phone number service location	187
+ sports sports position players. ice hockey hockey roster position team	188
+ government politician government positions held. government government position held legislative sessions	189
+ sports sports team location teams	190
+ sports sports team colors	191
+ people deceased person cause of death	192
+ sports sports position players. basketball basketball roster position team	193
+ base popstra celebrity shops at. base popstra shopping choice company	194
+ sports professional sports team draft picks. sports sports league draft pick draft	195
+ award award nominated work award nominations. award award nomination nominated for	196
+ baseball baseball team team stats. baseball baseball team stats season	197
+ user alexander philosophy philosopher interests	198
+ time time zone locations in this time zone	199
+ people person languages	200
+ american football football player position s	201
+ education educational institution students graduates. education education major field of study	202
+ film director film	203
+ american football football team historical roster. sports sports team roster position	204
+ award award ceremony awards presented. award award honor honored for	205
+ olympics olympic sport athletes. olympics olympic athlete affiliation olympics	206
+ film film costume design by	207
+ film film format film format	208
+ film film featured film locations	209
+ tv tv program genre	210
+ organization endowed organization endowment. measurement unit dated money value currency	211
+ film film written by	212
+ baseball baseball player batting stats. baseball batting statistics team	213
+ tv tv producer programs produced. tv tv producer term producer type	214
+ government politician government positions held. government government position held office position or title	215
+ base twinnedtowns twinned town twinned with. base twinnedtowns town twinning twinned towns	216
+ location hud county place county	217
+ sports pro athlete teams. sports sports team roster position	218
+ education educational degree people with this degree. education education major field of study	219
+ base petbreeds dog breed cities where this dog is popular. base petbreeds dog city relationship cities	220
+ film film story contributor film story credits	221
+ base schemastaging organization extra phone number. base schemastaging phone sandbox contact category	222
+ base saturdaynightlive snl cast member seasons. base saturdaynightlive snl season tenure cast members	223
+ film film film format	224
+ tv tv actor starring roles. tv regular tv appearance series	225
+ film film sequel	226
+ film film music	227
+ sports sports team roster. american football football roster position position	228
+ olympics olympic medal medal winners. olympics olympic medal honor country	229
+ user tsegaran random taxonomy subject entry. user tsegaran random taxonomy entry taxonomy	230
+ aviation airport airlines. aviation airline airport presence cities served	231
+ celebrities celebrity celebrity friends. celebrities friendship friend	232
+ location hud foreclosure area estimated number of mortgages. measurement unit dated integer source	233
+ base popstra religion membership. base popstra religion choice member	234
+ base x2010fifaworldcupsouthafrica world cup squad current world cup squad. base x2010fifaworldcupsouthafrica current world cup squad current club	235
+ base popstra location vacationers. base popstra vacation choice vacationer	236
+ medicine medical specialty diseases treated	237
+ sports sports position players. sports sports team roster player	238
+ law invention inventor	239
+ location hud foreclosure area total residential addresses. measurement unit dated integer source	240
+ base popstra celebrity canoodled. base popstra canoodled participant	241
+ location administrative division capital. location administrative division capital relationship capital	242
+ protected sites natural or cultural site designation sites. protected sites natural or cultural site listing listed site	243
+ baseball baseball team historical roster. baseball baseball historical roster position player	244
+ soccer football player current team. soccer football roster position team	245
+ base popstra celebrity vacations in. base popstra vacation choice location	246
+ olympics olympic games medals awarded. olympics olympic medal honor country	247
+ people profession specializations	248
+ computer software software genre	249
+ education educational institution school type	250
+ base popstra organization supporter. base popstra support supporter	251
+ award ranked list ranked list items. award ranking item	252
+ film film crewmember films crewed. film film crew gig film	253
+ sports sport pro athletes. sports pro sports played athlete	254
+ soccer football team current roster. soccer football roster position player	255
+ award hall of fame inductees. award hall of fame induction inductee	256
+ base biblioness bibs location state	257
+ education university local tuition. measurement unit dated money value currency	258
+ business business operation revenue. measurement unit dated money value currency	259
+ sports sports position players. american football football roster position team	260
+ sports sports position players. sports sports team roster team	261
+ business business operation retained earnings. measurement unit dated money value currency	262
+ tv tv producer type tv producers of this type. tv tv producer term producer	263
+ film film film set decoration by	264
+ military military conflict combatants. military military combatant group combatants	265
+ sports sports league teams. sports sports league participation team	266
+ base biblioness bibs location country	267
+ film editor film	268
+ music group member membership. music group membership role	269
+ olympics olympic games athletes. olympics olympic athlete affiliation country	270
+ organization organization parent. organization organization relationship parent	271
+ american football football team historical roster. american football football historical roster position position s	272
+ people person employment history. business employment tenure title	273
+ base popstra product sold to. base popstra product choice consumer	274
+ tv tv program creator programs created	275
+ tv tv program tv producer. tv tv producer term producer	276
+ business employer employees. business employment tenure person	277
+ location administrative division country	278
+ film film executive produced by	279
+ location statistical region rent50 3. measurement unit dated money value currency	280
+ food food nutrients. food nutrition fact nutrient	281
+ business industry companies	282
+ music group member membership. music group membership group	283
+ location statistical region gdp nominal per capita. measurement unit dated money value currency	284
+ education field of study students majoring. education education degree	285
+ film special film performance type film performance type. film performance actor	286
+ tv tv personality tv regular appearances. tv tv regular personal appearance appearance type	287
+ education fraternity sorority colleges and universities	288
+ education field of study students majoring. education education student	289
+ award award winning work awards won. award award honor honored for	290
+ baseball baseball team current roster. baseball baseball roster position position	291
+ people person children	292
+ sports sports team roster. basketball basketball roster position position	293
+ organization organization headquarters. location mailing address state province region	294
+ base aareas schema administrative area capital	295
+ location hud foreclosure area total 90 day vacant residential addresses. measurement unit dated integer source	296
+ base aareas schema administrative area administrative children	297
+ tv tv producer programs produced. tv tv producer term program	298
+ location country first level divisions	299
+ business business operation liabilities. measurement unit dated money value currency	300
+ film personal film appearance type film appearances. film personal film appearance person	301
+ sports sports league draft picks. sports sports league draft pick team	302
+ travel travel destination tourist attractions	303
+ base americancomedy comedy group members. base americancomedy comedy group membership member	304
+ education educational institution campuses	305
+ film film distributors. film film film distributor relationship region	306
+ travel travel destination climate. travel travel destination monthly climate month	307
+ business business operation cash. measurement unit dated money value currency	308
+ government governmental body sessions	309
+ location statistical region rent50 0. measurement unit dated money value currency	310
+ royalty order of chivalry recipients. royalty chivalric order membership recipient	311
+ military military commander military commands. military military command military combatant	312
+ film film subjects	313
+ medicine disease notable people with this condition	314
+ music musical group member. music group membership member	315
+ education educational institution students graduates. education education specialization	316
+ base schemastaging organization extra phone number. base schemastaging phone sandbox service location	317
+ tv tv producer type tv producers of this type. tv tv producer term program	318
+ government government office category officeholders. government government position held office holder	319
+ sports sports position players. baseball baseball roster position team	320
+ people ethnicity geographic distribution	321
+ film actor film. film performance special performance type	322
+ military military combatant military conflicts. military military combatant group combatants	323
+ film film personal appearances. film personal film appearance person	324
+ base schemastaging organization extra phone number. base schemastaging phone open times time zone	325
+ location location time zones	326
+ basketball basketball team roster. sports sports team roster position	327
+ film film story by	328
+ tv tv program recurring writers. tv tv program writer relationship writer	329
+ base petbreeds city with dogs top breeds. base petbreeds dog city relationship dog breed	330
+ transportation road major cities	331
+ basketball basketball position player roster position. basketball basketball roster position team	332
+ education educational degree people with this degree. education education specialization	333
+ base schemastaging person extra net worth. measurement unit dated money value source	334
+ olympics olympic games participating countries	335
+ base marchmadness ncaa basketball team ncaa tournament seeds. base marchmadness ncaa tournament seed tournament	336
+ film film distribution medium films distributed in this medium. film film film distributor relationship film	337
+ education educational institution sexes accepted. education gender enrollment sex	338
+ government governmental body members. government government position held office holder	339
+ tv tv network programs. tv tv network duration program	340
+ base contractbridge bridge player first place finish. base contractbridge bridge tournament standings second place	341
+ user tsegaran random subject taxonomy entry. user tsegaran random taxonomy entry subject	342
+ computer operating system parent os	343
+ sports sports team roster. sports sports team roster player	344
+ basketball basketball team roster. basketball basketball roster position position	345
+ military military combatant military commanders. military military command military commander	346
+ sports pro athlete teams. basketball basketball historical roster position team	347
+ people person employment history. business employment tenure company	348
+ music artist origin	349
+ people marriage union type unions of this type. people marriage location of ceremony	350
+ royalty royal line kingdom s ruled	351
+ medicine disease causes	352
+ american football football player former teams. sports sports team roster team	353
+ medicine drug ingredient more general ingredient	354
+ tv tv writer tv programs. tv tv program writer relationship tv program	355
+ time event locations	356
+ base x2010fifaworldcupsouthafrica world cup squad current world cup squad. base x2010fifaworldcupsouthafrica current world cup squad players	357
+ celebrities celebrity sexual relationships. celebrities romantic relationship celebrity	358
+ tv tv program spun off from	359
+ base popstra celebrity lived with. base popstra lived with participant	360
+ government political party politicians in this party. government political party tenure politician	361
+ education university domestic tuition. measurement unit dated money value currency	362
+ government legislative session members. government government position held office holder	363
+ government politician party. government political party tenure party	364
+ people cause of death includes causes of death	365
+ government politician government positions held. government government position held appointed by	366
+ award hall of fame discipline	367
+ organization non profit organization registered with. organization non profit registration registering agency	368
+ award award category presenting organization	369
+ base fight crime type people convicted of this crime. base crime criminal conviction guilty of	370
+ base saints saint venerated in	371
+ medicine icd 9 cm classification parent classification	372
+ film film art director films art directed	373
+ education educational institution subsidiary or constituent schools	374
+ film actor dubbing performances. film dubbing performance film	375
+ soccer football league teams. soccer football league participation team	376
+ film film character portrayed in films. film performance film	377
+ location country languages spoken	378
+ education educational institution students graduates. education education minor	379
+ user ktrueman default domain international organization member states	380
+ tv tv program regular personal appearances. tv tv regular personal appearance person	381
+ award award winning work awards won. award award honor ceremony	382
+ american football football team current roster. sports sports team roster position	383
+ soccer football player current team. sports sports team roster team	384
+ olympics olympic games medals awarded. olympics olympic medal honor medal	385
+ organization organization legal structure	386
+ base schemastaging athlete extra salary. base schemastaging athlete salary currency	387
+ location symbol of administrative division official symbol of. location location symbol relationship administrative division	388
+ award ranked item appears in ranked lists. award ranking list	389
+ people person education. education education major field of study	390
+ film film set designer film sets designed	391
+ government political appointer appointees. government government position held jurisdiction of office	392
+ user jg default domain olympic games sports	393
+ education educational degree people with this degree. education education minor	394
+ sports sports team roster. soccer football roster position player	395
+ people person sibling s. people sibling relationship sibling	396
+ base marchmadness ncaa basketball tournament seeds. base marchmadness ncaa tournament seed team	397
+ tv tv program original network. tv tv network duration network	398
+ music artist contribution. music recording contribution performance role	399
+ sports sports position players. sports sports team roster position	400
+ film film character portrayed in films. film performance actor	401
+ business job title people with this title. business employment tenure person	402
+ medicine disease parent disease	403
+ government politician government positions held. government government position held basic title	404
+ people family country	405
+ sports sports team roster. baseball baseball historical roster position player	406
+ tv special tv performance type episode performances. tv tv guest role actor	407
+ education educational institution parent institution	408
+ basketball basketball position player roster position. sports sports team roster team	409
+ music genre subgenre	410
+ government governmental jurisdiction governing officials. government government position held basic title	411
+ sports sports position players. american football football historical roster position position s	412
+ book school or movement associated authors	413
+ people profession specialization of	414
+ award award category category of	415
+ base bioventurist bv medical condition company involved	416
+ base popstra company product endorser. base popstra paid support endorser	417
+ film film cinematography	418
+ olympics olympic participating country olympics participated in	419
+ film film film production design by	420
+ organization organization companies acquired. business acquisition company acquired	421
+ tv tv program country of origin	422
+ people person parents	423
+ government political appointer appointees. government government position held office holder	424
+ base americancomedy comedy genre comedians in this genre	425
+ language human language writing system	426
+ film film edited by	427
+ tv tv personality tv regular appearances. tv tv regular personal appearance program	428
+ award award discipline awards in this discipline	429
+ business consumer company products. business company product relationship consumer product	430
+ education field of study students majoring. education education major field of study	431
+ protected sites listed site designation as natural or cultural site. protected sites natural or cultural site listing designation	432
+ tv tv actor starring roles. tv regular tv appearance special performance type	433
+ language language writing system languages	434
+ military military conflict commanders. military military command military combatant	435
+ music performance role guest performances. music recording contribution contributor	436
+ sports sports team roster. ice hockey hockey roster position position	437
+ education educational degree people with this degree. education education student	438
+ location us county county seat	439
+ people cause of death parent cause of death	440
+ finance currency countries used	441
+ film film film festivals	442
+ government government office or title office holders. government government position held office holder	443
+ people person spouse s. people marriage spouse	444
+ film film runtime. film film cut film release region	445
+ location capital of administrative division capital of. location administrative division capital relationship administrative division	446
+ user coco science concepts theories parent concept	447
+ government governmental jurisdiction governing officials. government government position held governmental body	448
+ broadcast artist content	449
+ basketball basketball team historical roster. sports sports team roster player	450
+ olympics olympic medal medal winners. olympics olympic medal honor olympics	451
+ military military person participated in conflicts	452
+ base aareas schema administrative area administrative area type	453
+ food diet follower follows diet	454
+ computer computer manufacturer	455
+ influence influence node peers. influence peer relationship peers	456
+ government governmental body members. government government position held legislative sessions	457
+ olympics olympic participating country athletes. olympics olympic athlete affiliation athlete	458
+ user hangy default domain sports team gender gender	459
+ fictional universe fictional character species	460
+ base schemastaging organization extra phone number. base schemastaging phone sandbox service language	461
+ base activism activism issue activists	462
+ organization organization type organizations of this type	463
+ organization organization place founded	464
+ award award category	465
+ baseball baseball player former teams. sports sports team roster team	466
+ government legislative session members. government government position held jurisdiction of office	467
+ tv tv program regular cast. tv regular tv appearance special performance type	468
+ base eating practicer of diet diet	469
+ tv tv program program creator	470
+ people deceased person place of burial	471
+ fictional universe fictional character ethnicity	472
+ government political district representatives. government government position held jurisdiction of office	473
+ olympics olympic athlete medals won. olympics olympic medal honor medal	474
+ people family members	475
+ film film release date s. film film regional release date film regional debut venue	476
+ ice hockey hockey team current roster. sports sports team roster position	477
+ film person or entity appearing in film films. film personal film appearance type of appearance	478
+ location administrative division first level division of	479
+ location statistical region gdp real. measurement unit adjusted money value adjustment currency	480
+ organization organization child. organization organization relationship child	481
+ base x2010fifaworldcupsouthafrica world cup squad current world cup squad. base x2010fifaworldcupsouthafrica current world cup squad position	482
+ business business operation assets. measurement unit dated money value currency	483
+ government governmental body members. government government position held district represented	484
+ music group member vocal range	485
+ government political appointer appointees. government government position held governmental body	486
+ olympics olympic games athletes. olympics olympic athlete affiliation athlete	487
+ geography lake cities	488
+ time event includes event	489
+ time event instance of recurring event	490
+ venture capital venture funded company venture investors. venture capital venture investment investor	491
+ military military person service. military military service military force	492
+ government governmental jurisdiction official symbols. location location symbol relationship symbol	493
+ tv non character role tv regular personal appearances. tv tv regular personal appearance person	494
+ base americancomedy impersonated celebrity impersonated by	495
+ sports pro athlete teams. ice hockey hockey previous roster position team	496
+ government legislative session members. government government position held office position or title	497
+ government government office category officeholders. government government position held district represented	498
+ business business operation operating income. measurement unit dated money value currency	499
+ soccer football position players	500
+ people ethnicity languages spoken	501
+ american football football team historical roster. american football football historical roster position player	502
+ ice hockey hockey team current roster. ice hockey hockey roster position position	503
+ base localfood seasonal month produce available. base localfood produce availability produce	504
+ base americancomedy celebrity impressionist celebrities impersonated	505
+ military rank used by services. military military service military force	506
+ organization organization organization type	507
+ medicine symptom symptom of	508
+ education field of study subdiscipline of	509
+ education university fraternities and sororities	510
+ government political appointer appointees. government government position held office position or title	511
+ government government office or title office holders. government government position held legislative sessions	512
+ food dietary restriction compatible ingredients	513
+ olympics olympic athlete country. olympics olympic athlete affiliation olympics	514
+ location statistical region places exported to. location imports and exports exported to	515
+ business board member organization board memberships. organization organization board membership organization	516
+ olympics olympic athlete medals won. olympics olympic medal honor medalist	517
+ film film production designer films production designed	518
+ business business operation net profit. measurement unit dated money value currency	519
+ film cinematographer film	520
+ military military combatant force deployments. military force strength combatant	521
+ government government office or title office holders. government government position held appointed by	522
+ computer programming language influenced	523
+ location statistical region gdp nominal. measurement unit dated money value currency	524
+ education field of study students majoring. education education specialization	525
+ basketball basketball position player roster position. basketball basketball roster position player	526
+ organization organization scope organizations with this scope	527
+ sports sports award winner awards. sports sports award award	528
+ cvg gameplay mode games with this mode	529
+ travel travel destination how to get here. travel transportation mode of transportation	530
+ computer programming language paradigm languages	531
+ baseball baseball player position s	532
+ base fashionmodels fashion model hair color	533
+ military armed force personnel. military military service rank	534
+ business business operation current assets. measurement unit dated money value currency	535
+ music album genre	536
+ media common media genre parent genre	537
+ base biblioness bibs location city	538
+ sports sports league season awards. sports sports award award winner	539
+ baseball baseball team current roster. sports sports team roster position	540
+ government governmental jurisdiction governing officials. government government position held office holder	541
+ location neighborhood neighborhood of	542
+ business brand owner s. business company brand relationship company	543
+ film film starring. film performance special performance type	544
+ people person education. education education degree	545
+ user mt default domain metabolite associated disorder	546
+ olympics olympic athlete country. olympics olympic athlete affiliation country	547
+ location country official language	548
+ user coco science concepts theories child concept	549
+ film film runtime. film film cut type of film cut	550
+ location location partially contains	551
+ base thoroughbredracing thoroughbred racehorse origin horses from this location	552
+ tv tv series season regular cast. tv regular tv appearance series	553
+ medicine disease treatments	554
+ computer programming language influenced by	555
+ base fight crime type people convicted of this crime. base crime criminal conviction convicted person	556
+ base popstra celebrity supporter. base popstra support supported organization	557
+ base popstra celebrity religion. base popstra religion choice religion	558
+ media common media genre child genres	559
+ film film job films with this crew job. film film crew gig crewmember	560
+ american football football player former teams. sports sports team roster position	561
+ time recurring event instances	562
+ base thoroughbredracing thoroughbred racehorse sex	563
+ film film film art direction by	564
+ medicine disease medical specialties	565
+ people person spouse s. people marriage location of ceremony	566
+ education university international tuition. measurement unit dated money value currency	567
+ film person or entity appearing in film films. film personal film appearance film	568
+ american football football player former teams. american football football historical roster position team	569
+ tv tv series season series	570
+ government politician government positions held. government government position held governmental body	571
+ broadcast genre content	572
+ award hall of fame inductee hall of fame inductions. award hall of fame induction hall of fame	573
+ baseball baseball player current team. sports sports team roster position	574
+ language human language language family	575
+ medicine disease cause diseases	576
+ geography island body of water	577
+ olympics olympic sport athletes. olympics olympic athlete affiliation athlete	578
+ base academyawards host of oscar show oscar show hosted	579
+ government political party ideology	580
+ symbols name source namesakes	581
+ film film festival individual festivals	582
+ base events performer performances. base events performance performer	583
+ baseball baseball team historical roster. sports sports team roster player	584
+ government governmental body members. government government position held appointed by	585
+ film film crewmember films crewed. film film crew gig film crew role	586
+ base parody parodied subject parodies	587
+ base activism activist area of activism	588
+ organization organization founder organizations founded	589
+ aviation aircraft owner aircraft fleet composition. aviation aircraft ownership count aircraft model	590
+ book author school or movement	591
+ government government office category officeholders. government government position held appointed by	592
+ american football football team historical roster. sports sports team roster player	593
+ base fight crime type victims of this crime type	594
+ olympics olympic participating country medals won. olympics olympic medal honor medalist	595
+ cvg cvg publisher games published	596
+ film film character portrayed in films dubbed. film dubbing performance language	597
+ medicine drug ingredient active moiety of drug	598
+ user alexander philosophy philosopher era	599
+ government government office category officeholders. government government position held legislative sessions	600
+ user alexander philosophy era philosophers	601
+ location country currency used	602
+ user alexander misc murdered person place murdered	603
+ religion religion deities	604
+ film film dubbing performances. film dubbing performance actor	605
+ sports pro athlete teams. american football football historical roster position team	606
+ education field of study subdisciplines	607
+ military military combatant force deployments. military force strength military conflict	608
+ dataworld gardening hint split to	609
+ broadcast content producer	610
+ ice hockey hockey team historical roster. ice hockey hockey previous roster position player	611
+ celebrities sexual orientation celebrities. celebrities sexual orientation phase celebrity	612
+ base popstra celebrity endorsements. base popstra paid support company	613
+ base localfood produce availability. base localfood produce availability seasonal months	614
+ film film dubbing performances. film dubbing performance language	615
+ medicine disease risk factors	616
+ government political district representatives. government government position held governmental body	617
+ media common dedicator dedications. media common dedication dedicated to	618
+ base parody parody parody of	619
+ film actor film. film performance character	620
+ location location partially containedby	621
+ people place of interment interred here	622
+ business company type companies of this type	623
+ sports sports team roster. basketball basketball historical roster position player	624
+ military military conflict military personnel involved	625
+ sports sports award type winners. sports sports award award winner	626
+ medicine disease includes diseases	627
+ fictional universe fictional character powers or abilities	628
+ award award presenting organization award categories presented	629
+ business business operation current liabilities. measurement unit dated money value currency	630
+ olympics olympic games medals awarded. olympics olympic medal honor medalist	631
+ basketball basketball player position s	632
+ language language family languages	633
+ tv tv writer episodes written	634
+ military military conflict force strengths. military force strength combatant	635
+ computer programming language language paradigms	636
+ film film prequel	637
+ base thoroughbredracing thoroughbred racehorse sex horses of this sex	638
+ soccer football player current team. soccer football roster position position	639
+ base americancomedy comedy group member belongs to. base americancomedy comedy group membership group	640
+ medicine medical treatment used to treat	641
+ sports pro athlete teams. soccer football roster position position	642
+ user mt default domain metabolite biofluid location	643
+ medicine disease symptoms	644
+ base localfood seasonal month produce available. base localfood produce availability seasonal months	645
+ food dish ingredients	646
+ user alexbl honorary title titled person honorary title. user alexbl honorary title honorary title holding honorary title	647
+ travel travel destination how to get here. travel transportation transport operator	648
+ tv tv character appeared in tv program. tv regular tv appearance actor	649
+ base locations countries continent	650
+ royalty chivalric order member belongs to order. royalty chivalric order membership order	651
+ royalty kingdom rulers	652
+ government government agency jurisdiction	653
+ tv tv location tv shows filmed here	654
+ film actor dubbing performances. film dubbing performance language	655
+ tv tv program filming locations	656
+ tv tv actor starring roles. tv regular tv appearance character	657
+ basketball basketball team roster. sports sports team roster player	658
+ organization organization board members. organization organization board membership member	659
+ broadcast content artist	660
+ government government office or title governmental body if any	661
+ base schemastaging tv program extra regular dubbing performances. base schemastaging tv star dubbing performance language	662
+ food diet followers	663
+ base nobelprizes nobel subject area nobel awards. base nobelprizes nobel honor nobel prize winner	664
+ sports sports position players. soccer football roster position player	665
+ visual art art subject artwork on the subject	666
+ media common dedicatee dedications. media common dedication dedicated by	667
+ food dish cuisine	668
+ tv tv program regular personal appearances. tv tv regular personal appearance appearance type	669
+ business consumer product company. business company product relationship company	670
+ medicine drug active moieties	671
+ military military conflict casualties. military casualties combatant	672
+ sports professional sports team draft picks. sports sports league draft pick player	673
+ location statistical region places imported from. location imports and exports imported from	674
+ geography geographical feature category	675
+ sports pro athlete sports played professionally. sports pro sports played sport	676
+ baseball baseball player batting stats. baseball batting statistics season	677
+ american football football player rushing. american football player rushing statistics season	678
+ location place with neighborhoods neighborhoods	679
+ soccer football player position s	680
+ military military person service. military military service rank	681
+ base popstra celebrity hangout. base popstra hangout business location	682
+ military military combatant casualties. military casualties military conflict	683
+ organization organization geographic scope	684
+ tv tv program regular cast. tv regular tv appearance seasons	685
+ tennis tennis player matches lost. tennis tennis match winner	686
+ base schemastaging tv program extra regular dubbing performances. base schemastaging tv star dubbing performance actor	687
+ base schemastaging tv character extra regular dubbing performances. base schemastaging tv star dubbing performance language	688
+ military rank used by services. military military service military person	689
+ education academic advisees	690
+ travel tourist attraction near travel destination	691
+ music voice singers	692
+ organization role leaders. organization leadership person	693
+ base yalebase secret society notable members. base yalebase secret society membership member	694
+ military military combatant military commanders. military military command military conflict	695
+ military armed force personnel. military military service military person	696
+ education educational institution sports teams	697
+ media common adapted work adaptations	698
+ award hall of fame discipline halls of fame	699
+ user szaijan fantasy football player nfl team	700
+ government legislative session members. government government position held basic title	701
+ religion religion organizations	702
+ military military commander military commands. military military command military conflict	703
+ base contractbridge bridge player first place finish. base contractbridge bridge tournament standings first place	704
+ sports sports team roster. basketball basketball roster position player	705
+ fictional universe fictional character based on	706
+ organization organization board members. organization organization board membership role	707
+ baseball baseball player lifetime batting statistics. baseball lifetime batting statistics starting season	708
+ basketball basketball player team. basketball basketball roster position position	709
+ finance currency countries formerly used	710
+ language human language region	711
+ sports sports award winner awards. sports sports award team	712
+ aviation airport focus city for	713
+ aviation airline airports served. aviation airline airport presence cities served	714
+ tv tv program guest appeared on. tv tv guest personal appearance appearance type	715
+ film film casting director films casting directed	716
+ people ethnicity includes groups	717
+ award long list nominee long list nominations. award long list nomination award	718
+ travel transport terminus travel destinations served. travel transportation mode of transportation	719
+ location statistical region gni per capita in ppp dollars. measurement unit dated money value currency	720
+ base schemastaging tv actor extra regular dubbing performances. base schemastaging tv star dubbing performance character	721
+ book book genre	722
+ education field of study students majoring. education education minor	723
+ comic books comic book character created by	724
+ sports sports position players. basketball basketball roster position player	725
+ base schemastaging tv actor extra regular dubbing performances. base schemastaging tv star dubbing performance language	726
+ base wrestling solo wrestler or team members	727
+ sports pro athlete teams. american football football historical roster position position s	728
+ base onephylogeny type of thing includes	729
+ sports sports championship event champion	730
+ aviation airport airlines. aviation airline airport presence airline	731
+ music instrument variation	732
+ base x2010fifaworldcupsouthafrica world cup participant world cup team. base x2010fifaworldcupsouthafrica current world cup squad position	733
+ computer software license	734
+ base eating diets people who follow this diet	735
+ education academic appointments fellowships etc. education academic post institution	736
+ fictional universe fictional character employers. fictional universe fictional employment tenure title	737
+ fictional universe fictional character married to. fictional universe marriage of fictional characters spouses	738
+ business board member leader of. organization leadership role	739
+ film film festival event festival	740
+ sports pro athlete teams. baseball baseball roster position team	741
+ base fight sports official sport	742
+ basketball basketball team roster. basketball basketball roster position player	743
+ education educational institution mascot	744
+ visual art visual artist art forms	745
+ user robert us congress congressional caucus current house members	746
+ base contractbridge bridge player second place finish. base contractbridge bridge tournament standings second place	747
+ base popstra celebrity eats at. base popstra restaurant choice restaurant	748
+ sports sports team roster. american football football historical roster position player	749
+ user alexbl honorary title honorary title titled people. user alexbl honorary title honorary title holding conferred upon	750
+ sports sports league sport	751
+ user tfmorris default domain document signatories	752
+ sports pro athlete teams. basketball basketball roster position team	753
+ film special film performance type film performance type. film performance character	754
+ broadcast radio format stations	755
+ fictional universe character gender characters of this gender	756
+ astronomy orbital relationship orbits	757
+ astronomy orbital relationship orbited by	758
+ base contractbridge bridge player second place finish. base contractbridge bridge tournament standings first place	759
+ american football football position players	760
+ fictional universe fictional character gender	761
+ government political ideology political parties	762
+ government legislative session legislature	763
+ base popstra business location customer. base popstra hangout customer	764
+ user lindenb default domain scientist known for	765
+ film film gross revenue. measurement unit dated money value currency	766
+ fictional universe fictional character creator fictional characters created	767
+ government political district representatives. government government position held basic title	768
+ people ethnicity included in group	769
+ film film film casting director	770
+ government government office category offices	771
+ government government office category officeholders. government government position held governmental body	772
+ basketball basketball player former teams. sports sports team roster team	773
+ computer computer manufacturer brand computer models	774
+ base popstra company fashion choice. base popstra fashion choice fashion wearer	775
+ basketball basketball player former teams. basketball basketball historical roster position team	776
+ baseball baseball player lifetime batting statistics. baseball lifetime batting statistics last statistics season	777
+ biology organism classification rank	778
+ tennis tennis player matches won. tennis tennis match loser	779
+ business sponsor sponsorship. business sponsorship sponsored recipient	780
+ organization organization sector organizations in this sector	781
+ base popstra celebrity bought. base popstra product choice product	782
+ organization organization product of merger. organization organization merger organizations merging	783
+ music group member artists supported	784
+ sports sports championship event championship	785
+ book newspaper circulation areas	786
+ government governmental body members. government government position held basic title	787
+ sports sports championship events	788
+ user tfmorris default domain signatory documents signed	789
+ government governmental jurisdiction agencies	790
+ music artist supporting artists	791
+ government governmental jurisdiction governing officials. government government position held legislative sessions	792
+ sports school sports team school	793
+ protected sites site listing category listed sites. protected sites natural or cultural site listing listed site	794
+ internet website owner websites owned new. internet website ownership website	795
+ religion religion notable figures	796
+ tv tv program episodes	797
+ soccer football player current team. sports sports team roster position	798
+ user szaijan fantasy football player position	799
+ common resource annotations. common webpage category	800
+ media common literary genre books in this genre	801
+ soccer football team manager. soccer football team management tenure manager	802
+ travel transport terminus travel destinations served. travel transportation travel destination	803
+ tv tv network areas served	804
+ protected sites listed site designation as natural or cultural site. protected sites natural or cultural site listing category or criteria	805
+ government government office or title office holders. government government position held jurisdiction of office	806
+ olympics olympic athlete medals won. olympics olympic medal honor country	807
+ visual art visual artist associated periods or movements	808
+ music instrument family	809
+ tv tv character appeared in tv episodes. tv tv guest role actor	810
+ basketball basketball team historical roster. basketball basketball historical roster position player	811
+ government governmental body members. government government position held jurisdiction of office	812
+ government governmental body jurisdiction	813
+ government political district representatives. government government position held office holder	814
+ user robert us congress us representative committee memberships	815
+ visual art visual art form artists	816
+ music artist album	817
+ government government office or title category	818
+ american football football coach position coaches holding this position. american football football historical coach position team	819
+ award award presenting organization awards presented	820
+ computer software genre software in genre	821
+ base x2010fifaworldcupsouthafrica world cup participant world cup team. base x2010fifaworldcupsouthafrica current world cup squad current club	822
+ baseball baseball position players	823
+ people appointer appointment made. people appointment appointed role	824
+ tv special tv performance type starring performances. tv regular tv appearance series	825
+ sports sports league season awards. sports sports award award	826
+ sports sports award type winners. sports sports award season	827
+ visual art art period movement associated artists	828
+ people family member family	829
+ organization role governors. organization organization board membership organization	830
+ soccer football player goals scored. soccer football goal point awarded to	831
+ computer software developer software	832
+ media common dedicatee dedications. media common dedication work dedicated	833
+ soccer football team league. soccer football league participation league	834
+ business sponsored recipient sponsorship. business sponsorship sponsored by	835
+ religion religious organization associated with	836
+ base contractbridge bridge player teammates. base contractbridge bridge player teammates teammate	837
+ american football football player former teams. american football football historical roster position position s	838
+ architecture building function buildings	839
+ business board member leader of. organization leadership organization	840
+ film film film series	841
+ sports sport leagues	842
+ military military conflict commanders. military military command military commander	843
+ dining cuisine ingredients	844
+ government politician government positions held. government government position held district represented	845
+ fictional universe fictional character character created by	846
+ sports sports team championships	847
+ government politician government positions held. government government position held jurisdiction of office	848
+ sports sports team season record. sports sports team season record season	849
+ government governmental jurisdiction governing officials. government government position held appointed by	850
+ biology organism classification rank organism classifications	851
+ ice hockey hockey position players	852
+ sports sports award winner awards. sports sports award season	853
+ broadcast content genre	854
+ organization organization spun off from. organization organization spin off parent company	855
+ organization organization involved in merger. organization organization merger became organization	856
+ broadcast broadcast area served	857
+ business consumer company brands. business company brand relationship brand	858
+ tv tv actor guest roles. tv tv guest role episodes appeared in	859
+ american football football player current team. sports sports team roster team	860
+ geography river cities	861
+ dining cuisine dishes	862
+ language language dialect language	863
+ fictional universe fictional setting works set here	864
+ base crime crime victim crime	865
+ religion religion includes	866
+ time event included in event	867
+ film film character portrayed in films dubbed. film dubbing performance film	868
+ projects project role projects. projects project participation participant	869
+ education field of study academics in this field	870
+ base events type of festival recurring festivals of this type	871
+ basketball basketball player team. sports sports team roster team	872
+ sports drafted athlete drafted. sports sports league draft pick school	873
+ aviation airline airports served. aviation airline airport presence airport	874
+ geography body of water islands	875
+ basketball basketball player team. sports sports team roster position	876
+ comic books comic book creator characters created	877
+ transportation road end2. transportation road starting point location	878
+ sports pro athlete teams. american football football roster position position	879
+ government governmental jurisdiction government positions	880
+ architecture architectural style architects	881
+ tv tv actor guest roles. tv tv guest role special performance type	882
+ astronomy celestial object category objects	883
+ architecture structure architect	884
+ cvg computer videogame publisher	885
+ sports sports position players. american football football historical roster position player	886
+ geography island island group	887
+ baseball baseball player former teams. baseball baseball historical roster position team	888
+ base localfood food producing region seasonal availability. base localfood produce availability produce	889
+ book author works written	890
+ tv tv series season regular cast. tv regular tv appearance actor	891
+ fictional universe fictional universe works set here	892
+ religion religion places of worship	893
+ government governmental jurisdiction governing officials. government government position held district represented	894
+ biology animal breed registered with. biology breed registration breed group	895
+ cvg computer videogame game series	896
+ olympics olympic athlete country. olympics olympic athlete affiliation sport	897
+ tv special tv performance type starring performances. tv regular tv appearance character	898
+ cvg cvg genre games	899
+ sports pro athlete teams. baseball baseball historical roster position team	900
+ base petbreeds dog breed size. base petbreeds dog size gender	901
+ olympics olympic medal medal winners. olympics olympic medal honor medalist	902
+ basketball basketball player player statistics. basketball basketball player stats team	903
+ base popstra celebrity wears. base popstra fashion choice designer	904
+ base famouspets pet owner pets owned. base famouspets pet ownership owner	905
+ government government office or title jurisdiction	906
+ government governmental body members. government government position held office position or title	907
+ base thoroughbredracing thoroughbred racehorse color	908
+ tv tv program regular cast. tv regular tv appearance character	909
+ base americancomedy comedian comedy genres	910
+ travel transport operator travel destinations served. travel transportation transport operator	911
+ aviation airline alliance member airlines	912
+ base events festival series type of festival	913
+ tv tv series episode series	914
+ government government office or title office holders. government government position held basic title	915
+ broadcast radio station owner	916
+ geography river basin countries	917
+ computer operating system includes os versions	918
+ american football football player passing. american football player passing statistics season	919
+ architecture structure architectural style	920
+ tv tv program subjects	921
+ tv tv actor starring roles. tv regular tv appearance seasons	922
+ music genre albums	923
+ cvg computer videogame subjects	924
+ film film personal appearances. film personal film appearance type of appearance	925
+ sports tournament event competitor events competed in. sports competitor competition relationship country	926
+ tv tv series episode guest stars. tv tv guest role actor	927
+ cvg cvg developer games developed	928
+ fictional universe fictional universe characters	929
+ award hall of fame inductee hall of fame inductions. award hall of fame induction category	930
+ sports drafted athlete drafted. sports sports league draft pick team	931
+ american football football player games. american football player game statistics team	932
+ base popstra company shopping choice. base popstra shopping choice shopper	933
+ venture capital venture investor investments. venture capital venture investment company	934
+ government governmental jurisdiction government bodies	935
+ people deceased person place of cremation	936
+ celebrities celebrity sexual orientation. celebrities sexual orientation phase sexual orientation	937
+ education school lowest grade taught	938
+ tv tv character appeared in tv program. tv regular tv appearance special performance type	939
+ organization role governors. organization organization board membership member	940
+ tv non character role tv guest personal appearances. tv tv guest personal appearance person	941
+ government government office or title office holders. government government position held governmental body	942
+ location location nearby airports	943
+ tv non character role tv regular personal appearances. tv tv regular personal appearance program	944
+ medicine disease prevention factors	945
+ book written work subjects	946
+ cvg computer videogame gameplay modes	947
+ government governmental body offices positions	948
+ film personal film appearance type film appearances. film personal film appearance film	949
+ biology breed registry recognized breeds. biology breed registration breed	950
+ award hall of fame induction category inductees. award hall of fame induction inductee	951
+ film actor dubbing performances. film dubbing performance character	952
+ base localfood produce availability. base localfood produce availability location	953
+ base popstra restaurant restaurant choice. base popstra restaurant choice diner	954
+ sports sports team roster. american football football roster position player	955
+ base crime crime victim crime type	956
+ computer operating system developer operating systems developed	957
+ religion religion is part of	958
+ biology animal breed place of origin	959
+ user narphorium people wealthy person net worth. measurement unit dated money value currency	960
+ base schemastaging organization extra phone number. base schemastaging phone sandbox product or service	961
+ travel transport operator travel destinations served. travel transportation mode of transportation	962
+ medicine drug legal status	963
+ tv tv program spin offs	964
+ broadcast producer produces	965
+ media common adaptation adapted from	966
+ american football football player rushing. american football player rushing statistics team	967
+ tv tv character appeared in tv program. tv regular tv appearance series	968
+ cvg game character games. cvg game performance game	969
+ soccer football player matches played. soccer football player match participation team	970
+ government government office category officeholders. government government position held office position or title	971
+ ice hockey hockey player former team s. ice hockey hockey previous roster position team	972
+ computer software developer	973
+ fictional universe fictional setting fictional characters born here	974
+ aviation airline alliance	975
+ baseball baseball league teams	976
+ olympics olympic athlete medals won. olympics olympic medal honor olympics	977
+ games game genre boardgames	978
+ basketball basketball player team. basketball basketball roster position team	979
+ base rugby rugby player type of rugby	980
+ government governmental jurisdiction governing officials. government government position held office position or title	981
+ medicine infectious disease infectious agent type	982
+ baseball baseball player current team. baseball baseball roster position position	983
+ tv tv series season regular cast. tv regular tv appearance seasons	984
+ biology domesticated animal breeds	985
+ cvg computer videogame cvg genre	986
+ film film dubbing performances. film dubbing performance character	987
+ biology breed origin breeds originating here	988
+ religion deity deity of	989
+ fictional universe work of fiction setting	990
+ broadcast radio station format	991
+ sports sports championship event runner up	992
+ film film character portrayed in films. film performance special performance type	993
+ computer operating system developer	994
+ food ingredient incompatible with dietary restrictions	995
+ architecture type of museum museums	996
+ american football football player games. american football player game statistics season	997
+ computer programming language designer languages designed	998
+ baseball baseball team current roster. baseball baseball roster position player	999
+ book periodical subject periodicals	1000
+ ice hockey hockey player former team s. sports sports team roster team	1001
+ organization organization leadership. organization leadership person	1002
+ base nobelprizes nobel subject area nobel awards. base nobelprizes nobel honor subject area	1003
+ royalty noble title holders. royalty noble title tenure noble person	1004
+ ice hockey hockey team historical roster. sports sports team roster player	1005
+ basketball basketball position players	1006
+ base argumentmaps morally disputed activity instance of abstract moral dispute	1007
+ base contractbridge bridge player second place finish. base contractbridge bridge tournament standings tournament	1008
+ base fight sentence convictions. base crime criminal conviction convicted person	1009
+ sports professional sports team owner s	1010
+ ice hockey hockey player current team. sports sports team roster position	1011
+ aviation airline hubs	1012
+ common annotation category annotations	1013
+ location it province capital	1014
+ tv tv actor guest roles. tv tv guest role character	1015
+ architecture architect architectural style	1016
+ base schemastaging tv program extra regular dubbing performances. base schemastaging tv star dubbing performance character	1017
+ baseball baseball team league	1018
+ organization organization spin offs. organization organization spin off child company	1019
+ film film featured song performed by	1020
+ computer computer compatible oses. computer os compatibility operating system	1021
+ dining cuisine restaurant	1022
+ base fashionmodels hair color fashion models with this hair color	1023
+ film film company films. film film film company relationship film	1024
+ base argumentmaps abstract moral dispute particular instances	1025
+ sports sports team owner teams owned	1026
+ location country currency formerly used	1027
+ user tsegaran computer algorithm family	1028
+ base petbreeds dog breed group	1029
+ book book subject works	1030
+ comic books comic book creator series created	1031
+ base contractbridge bridge tournament standing. base contractbridge bridge tournament standings second place	1032
+ aviation airport serves	1033
+ film film other film companies. film film film company relationship film company	1034
+ cvg computer game subject games	1035
+ architecture structure address. location mailing address citytown	1036
+ travel transport operator travel destinations served. travel transportation travel destination	1037
+ biology animal breed breed of	1038
+ government governmental body component bodies	1039
+ geography lake type lakes of this type	1040
+ sports pro athlete teams. baseball baseball roster position position	1041
+ cvg computer videogame characters. cvg game performance character	1042
+ music album artist	1043
+ people appointee position. people appointment appointed role	1044
+ education school district schools	1045
+ aviation airport hub for	1046
+ computer software compatible oses. computer software compatibility operating system	1047
+ astronomy star system body star system	1048
+ fictional universe character powers characters with this ability	1049
+ architecture architectural style examples	1050
+ sports sports position players. ice hockey hockey roster position player	1051
+ martial arts martial artist martial art	1052
+ fictional universe work of fiction part of these fictional universes	1053
+ base schemastaging tv character extra regular dubbing performances. base schemastaging tv star dubbing performance program	1054
+ geography geographical feature category features	1055
+ american football football team historical coaching staff. american football football historical coach position position	1056
+ religion religion texts	1057
+ media common dedicated work dedication. media common dedication dedicated to	1058
+ film film festival location	1059
+ theater theater character portrayed by. theater theater role actor	1060
+ chemistry chemical compound solubility. chemistry solubility relationship solvent	1061
+ base x2010fifaworldcupsouthafrica world cup participant world cup team. base x2010fifaworldcupsouthafrica current world cup squad national team	1062
+ biology organism classification organisms of this type	1063
+ sports sports team roster. baseball baseball roster position player	1064
+ architecture building building function	1065
+ theater theater genre plays in this genre	1066
+ religion religion practices	1067
+ base ecology ecosystem ecosystem members	1068
+ internet website category	1069
+ law inventor inventions	1070
+ fictional universe character species characters of this species	1071
+ periodicals newspaper circulation area newspapers	1072
+ soccer football team manager team. soccer football team management tenure team	1073
+ base newsevents news reporting organisation news reports. base newsevents news report event	1074
+ people appointed role appointment. people appointment appointed by	1075
+ baseball baseball player current team. baseball baseball roster position team	1076
+ education academic research areas	1077
+ user robert us congress us representative congressional caucus memberships	1078
+ tv tv series episode guest personal appearances. tv tv guest personal appearance person	1079
+ broadcast content language	1080
+ book magazine genre	1081
+ book written work author	1082
+ baseball baseball player current team. sports sports team roster team	1083
+ music concert tour artist	1084
+ base crime convicted criminal convictions. base crime criminal conviction sentence type	1085
+ medicine medical treatment side effects	1086
+ common webpage category	1087
+ tv tv program guest appeared on. tv tv guest personal appearance episode	1088
+ medicine icd 9 cm classification includes classifications	1089
+ base yalebase secret society member belonged to. base yalebase secret society membership society	1090
+ travel transport terminus travel destinations served. travel transportation transport terminus	1091
+ geography lake basin countries	1092
+ internet website category sites	1093
+ base schemastaging tv character extra regular dubbing performances. base schemastaging tv star dubbing performance actor	1094
+ fictional universe fictional character children	1095
+ education school highest grade taught	1096
+ royalty monarch kingdom	1097
+ base collectives collective members. base collectives collective membership member	1098
+ fictional universe fictional character place of birth	1099
+ base infrastructure power station fuel type	1100
+ base fight crime type includes crimes	1101
+ fictional universe fictional job title fictional characters with this job. fictional universe fictional employment tenure employee	1102
+ broadcast broadcast content	1103
+ common topic webpage. common webpage resource	1104
+ comic books comic book character primary universe	1105
+ book periodical format periodicals in this format. book periodical format period periodical	1106
+ geography river mouth	1107
+ organization organization involved in merger. organization organization merger organizations merging	1108
+ sports pro athlete teams. basketball basketball roster position position	1109
+ base endorsements endorsee newspaper endorsements. base endorsements newspaper endorsement newspaper	1110
+ american football football coach position coaches holding this position. american football football historical coach position coach	1111
+ comic books comic book character regular featured appearances	1112
+ broadcast broadcast distributor	1113
+ exhibitions exhibition sponsor exhibitions sponsored. exhibitions exhibition run sponsor	1114
+ architecture museum address. location mailing address state province region	1115
+ basketball basketball position player roster position. sports sports team roster player	1116
+ location statistical region population. measurement unit dated integer source	1117
+ royalty monarch royal line	1118
+ theater play lyricist	1119
+ sports sports team roster. ice hockey hockey roster position player	1120
+ martial arts martial art well known practitioner	1121
+ education academic advisors	1122
+ location location street address. location mailing address citytown	1123
+ film film series films in series	1124
+ military military post used by armed forces. military military post use armed force	1125
+ user robert us congress house committee current members	1126
+ aviation aircraft model number owned by. aviation aircraft ownership count aircraft owner	1127
+ base contractbridge bridge tournament standing. base contractbridge bridge tournament standings first place	1128
+ award award category long lists. award long list nomination nominee	1129
+ broadcast content broadcast	1130
+ royalty noble title noble rank	1131
+ cvg computer videogame sequel	1132
+ user robert military military person participated in conflicts	1133
+ religion religious text religious text of	1134
+ fictional universe person in fiction representations in fiction	1135
+ base crime convicted criminal convictions. base crime criminal conviction guilty of	1136
+ ice hockey hockey player current team. sports sports team roster team	1137
+ theater play country of origin	1138
+ biology organism classification higher classification	1139
+ cvg computer videogame developer	1140
+ food dietary restriction incompatible ingredients	1141
+ base bioventurist science or technology company develops treatments for disease	1142
+ base endorsements endorsing newspaper endorsements. base endorsements newspaper endorsement election	1143
+ visual art visual art form artworks	1144
+ metropolitan transit transit line service type	1145
+ sports pro athlete teams. ice hockey hockey roster position team	1146
+ transportation bridge bridge type	1147
+ tennis tennis tournament champion tennis titles. tennis tennis tournament championship winner	1148
+ media common dedicator dedications. media common dedication work dedicated	1149
+ base onephylogeny type of thing things of this type	1150
+ food ingredient dishes	1151
+ base fight crime type included in crimes	1152
+ fictional universe character rank characters of this rank	1153
+ projects project participant projects. projects project participation role	1154
+ base crime crime victim s	1155
+ aviation aircraft type aircraft of this type	1156
+ sports drafted athlete drafted. sports sports league draft pick draft	1157
+ base activism activism issue activist organizations	1158
+ biology breed group breeds in this group. biology breed registration breed	1159
+ award recurring competition individual competitions	1160
+ award competition instance of recurring competition	1161
+ book author series written or contributed to	1162
+ sports pro athlete teams. american football football roster position team	1163
+ visual art artwork art subject	1164
+ base schemastaging fish found in	1165
+ media common dedicated work dedication. media common dedication dedicated by	1166
+ geography island group islands in group	1167
+ base collectives collective member member of. base collectives collective membership collective	1168
+ base endorsements endorsing newspaper endorsements. base endorsements newspaper endorsement endorsee	1169
+ government governmental body body this is a component of	1170
+ base thoroughbredracing thoroughbred racehorse country	1171
+ royalty royal line monarchs from this line	1172
+ biology organism sex	1173
+ base activism organization area of activism	1174
+ comic books comic book fictional universe characters primarily appearing in this universe	1175
+ tv tv subject tv programs	1176
+ book magazine genre magazines in this genre	1177
+ fictional universe fictional character romantically involved with. fictional universe romantic involvement partner	1178
+ user szaijan fantasy football position player	1179
+ medicine drug ingredient more specific ingredient	1180
+ broadcast radio station owner radio stations	1181
+ religion place of worship religion	1182
+ aviation airline focus cities	1183
+ sports sport related equipment	1184
+ tv tv producer tv episodes produced. tv tv producer episode credit episode	1185
+ broadcast tv station owner	1186
+ biology animal breed registered with. biology breed registration registry	1187
+ fictional universe fictional character siblings. fictional universe sibling relationship of fictional characters siblings	1188
+ medicine type of infectious agent diseases	1189
+ base contractbridge bridge player first place finish. base contractbridge bridge tournament standings tournament	1190
+ sports sports facility teams	1191
+ user radiusrs default domain astrology related topics	1192
+ comic books comic book publisher comic book series published	1193
+ education fraternity sorority founded location	1194
+ american football football player passing. american football player passing statistics team	1195
+ dining restaurant cuisine	1196
+ architecture structure address. location mailing address state province region	1197
+ military armed force military posts. military military post use military post	1198
+ american football football team current roster. sports sports team roster player	1199
+ sports sport country athletic performances. sports competitor competition relationship competitors	1200
+ spaceflight space agency astronauts	1201
+ sports sports official sport	1202
+ education fraternity sorority colors	1203
+ theater play genre	1204
+ transportation bridge locale	1205
+ geography lake lake type	1206
+ fictional universe fictional character appears in these fictional universes	1207
+ tv tv series episode producers. tv tv producer episode credit producer	1208
+ religion religious organization leaders. religion religious organization leadership leader	1209
+ american football football player receiving. american football player receiving statistics team	1210
+ interests collection category sub categories	1211
+ medicine drug drug class	1212
+ baseball baseball player lifetime batting statistics. baseball lifetime batting statistics ending season	1213
+ base onephylogeny type of thing included in	1214
+ tv tv program seasons	1215
+ base patronage patron related client. base patronage patron client relationship client	1216
+ cvg cvg designer games designed	1217
+ internet website owner new. internet website ownership owner	1218
+ education school mascot school	1219
+ base argumentmaps innovator original ideas	1220
+ protected sites iucn category protected areas	1221
+ food ingredient cuisine	1222
+ broadcast content location	1223
+ book periodical subjects	1224
+ user tsegaran computer algorithm family algorithm	1225
+ sports sports league draft picks. sports sports league draft pick player	1226
+ visual art visual art genre artworks	1227
+ religion religious leader religious leadership. religion religious organization leadership organization	1228
+ royalty noble person titles. royalty noble title tenure noble title	1229
+ tv tv series episode writer	1230
+ ice hockey hockey player current team. ice hockey hockey roster position team	1231
+ education academic institution visiting scholars fellows etc. education academic post person	1232
+ interests collection category parent category	1233
+ metropolitan transit transit system area served	1234
+ common topic webpage. common webpage topic	1235
+ broadcast distributor distributes	1236
+ education school district locations served	1237
+ business asset owners. business asset ownership owner	1238
+ common topic subject of	1239
+ medicine condition prevention factors conditions this may prevent	1240
+ ice hockey hockey team current roster. sports sports team roster player	1241
+ american football football coach coaching history. american football football historical coach position team	1242
+ computer software languages used	1243
+ government election office	1244
+ astronomy star system planetary system	1245
+ user robert us congress congressional district state	1246
+ sports sport officials	1247
+ sports sports team roster. ice hockey hockey previous roster position player	1248
+ computer programming language dialects	1249
+ protected sites protected site iucn category	1250
+ business asset owner assets owned. business asset ownership owned asset	1251
+ sports sports equipment sport used for	1252
+ exhibitions exhibition sponsor exhibitions sponsored. exhibitions exhibition run venue	1253
+ book newspaper headquarters. location mailing address citytown	1254
+ fictional universe fictional character rank	1255
+ royalty noble title used in. royalty system title relationship system	1256
+ biology organism classification lower classifications	1257
+ baseball baseball team current roster. sports sports team roster player	1258
+ base thoroughbredracing thoroughbred racehorse color horses of this color	1259
+ user robert us congress us representative state	1260
+ base patronage client related patron. base patronage patron client relationship patron	1261
+ education school school district	1262
+ base usnationalparks us national park state	1263
+ travel travel destination local transportation	1264
+ common resource annotations. common webpage topic	1265
+ comic books comic book series publisher	1266
+ fictional universe ethnicity in fiction characters of this ethnicity	1267
+ cvg computer videogame designers	1268
+ business board member organization board memberships. organization organization board membership role	1269
+ common topic subjects	1270
+ sports pro athlete teams. ice hockey hockey roster position position	1271
+ protected sites governing body of protected sites protected sites governed	1272
+ location location street address. location mailing address state province region	1273
+ sports sports position players. baseball baseball roster position player	1274
+ base folklore mythical creature mythology	1275
+ base ecology food web member belongs to ecosystem s	1276
+ base petbreeds dog breed color	1277
+ music conducted ensemble conductors. music conducting tenure conductor	1278
+ music conductor groups. music conducting tenure ensemble	1279
+ transportation road end1. transportation road starting point location	1280
+ people appointee position. people appointment appointed by	1281
+ cvg game voice actor computer game voice performances. cvg game performance game	1282
+ cvg game series games in series	1283
+ base argumentmaps original idea innovator	1284
+ theater theater actor theater roles. theater theater role role	1285
+ people appointer appointment made. people appointment appointee	1286
+ aviation aircraft model aircraft type	1287
+ cvg computer videogame prequel	1288
+ film film character portrayed in films dubbed. film dubbing performance actor	1289
+ ice hockey hockey team current roster. ice hockey hockey roster position player	1290
+ travel travel destination how to get here. travel transportation transport terminus	1291
+ architecture structure construction cost. measurement unit money value currency	1292
+ aviation aircraft manufacturer aircraft models made	1293
+ ice hockey hockey player current team. ice hockey hockey roster position position	1294
+ ice hockey hockey player hockey position	1295
+ american football football player current team. american football football roster position position	1296
+ architecture architectural structure owner structures owned. architecture ownership structure	1297
+ book periodical publisher periodicals published. book periodical publisher period periodical	1298
+ book newspaper owner newspapers owned	1299
+ cvg computer videogame characters. cvg game performance voice actor	1300
+ american football football player current team. american football football roster position team	1301
+ american football football team current roster. american football football roster position player	1302
+ base wrestling professional wrestler member of team	1303
+ comic books comic book series created by	1304
+ visual art artwork art form	1305
+ american football football player receiving. american football player receiving statistics season	1306
+ theater theatrical lyricist play lyrics written	1307
+ visual art artwork art genre	1308
+ architecture architect structures designed	1309
+ base folklore mythology mythical creatures	1310
+ base petbreeds dog coat color dog breeds	1311
+ base infrastructure power plant type power station	1312
+ base petbreeds dog breed group dog breeds	1313
+ common webpage topic	1314
+ language human language dialects	1315
+ award award presented by	1316
+ exhibitions exhibition venue exhibitions at this venue. exhibitions exhibition run sponsor	1317
+ book periodical publisher. book periodical publisher period publisher	1318
+ transportation bridge type bridges of this type	1319
+ base disaster2 tactic attacks of this form. base disaster2 attack process attack event	1320
+ book newspaper headquarters. location mailing address state province region	1321
+ book written work original language	1322
+ law court judges. law judicial tenure judge	1323
+ architecture structure owner. architecture ownership owner	1324
+ people appointed role appointment. people appointment appointee	1325
+ book literary series author s	1326
+ biology organism organism type	1327
+ music album release type albums	1328
+ american football football team historical coaching staff. american football football historical coach position coach	1329
+ sports sports team arena stadium	1330
+ fictional universe fictional character parents	1331
+ aviation airliner accident flight destination	1332
+ comic books comic book series featured characters	1333
+ law judge courts. law judicial tenure court	1334
+ computer programming language parent language	1335
+ royalty system of nobility titles. royalty system title relationship title	1336
+ cvg game voice actor computer game voice performances. cvg game performance character	1337
+ medicine symptom side effect of	1338
+ computer programming language language designers	1339
+ cvg game character games. cvg game performance voice actor	1340
+ american football football coach coaching history. american football football historical coach position position	1341
+ book newspaper owner	1342
+ medicine drug class drugs	1343
+ sports multi event tournament sports	1344
