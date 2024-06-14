@@ -7,6 +7,7 @@ import difflib
 import random
 
 api_key = 'sk-viyCtivavwvqvyZ4B71bC4A8DfBf40748820A6129f4fCdA5'
+# enter your api_key here
 
 def is_number(string):
     pattern = re.compile(r'^[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?$')
@@ -68,6 +69,7 @@ def call_llm_api(prompt, max_retries=10, timeout=10):
 
     for _ in range(max_retries):
         try:
+            # send your requests here
             response = requests.post('https://oneapi.xty.app/v1/chat/completions', headers=headers, json=data, timeout=timeout)
             
             if response.status_code == 200:
