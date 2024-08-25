@@ -8,6 +8,19 @@
 
 <h3 align="center">⭐️CMRP: Cross-modal Reinforced Prompting for Graph and Language Tasks⭐️</h3>
 
+<div align="center">
+  
+| **[Quick Start](#quick-start)** 
+| **[Website](https://github.com/JohnJiang12138/CMRP)** | **[Paper](https://doi.org/10.1145/3637528.3671742)**
+| **[Video](https://www.youtube.com/watch?v=QNq_jUVwO1s)**
+
+![](https://img.shields.io/badge/Latest_version-v0.1-red)
+![Testing Status](https://img.shields.io/badge/PyTorch-v2.0.1-red)
+![Testing Status](https://img.shields.io/badge/license-MIT-blue)
+![Testing Status](https://img.shields.io/badge/python->=3.10-red)
+
+</div>
+
 
 # Quick Start
 ## Package Dependencies
