@@ -71,3 +71,8 @@ sh run_kg_WN18.sh
 }
 
 ```
+<div align="center">
+  <a href="https://github.com/JohnJiang12138/CMRP">
+    <img height="150" src="CMRP_KDD24Poster.jpg?sanitize=true" />
+  </a>
+</div>
