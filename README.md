@@ -32,7 +32,7 @@ for detailed information, please see ``requirements.txt``
 
 ## Preparations
 
-Embedding model T5-Small is used.
+During preprocessing, we use T5-Small for embedding.
 
 ```
 git lfs install
