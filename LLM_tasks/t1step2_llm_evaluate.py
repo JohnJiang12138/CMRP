@@ -6,7 +6,7 @@ import pickle
 import difflib
 import random
 
-api_key = 'sk-viyCtivavwvqvyZ4B71bC4A8DfBf40748820A6129f4fCdA5'
+api_key = 'sk-340StnBY8FLXeCjk4b714060Cb1b4f3c968dCa1c24F78260'
 # enter your api_key here
 
 def is_number(string):
@@ -70,7 +70,7 @@ def call_llm_api(prompt, max_retries=10, timeout=10):
     for _ in range(max_retries):
         try:
             # send your requests here
-            response = requests.post('https://oneapi.xty.app/v1/chat/completions', headers=headers, json=data, timeout=timeout)
+            response = requests.post('https://xiaoai.plus/v1/chat/completions', headers=headers, json=data, timeout=timeout)
             
             if response.status_code == 200:
                 return response.json()["choices"][0]["message"]["content"]
