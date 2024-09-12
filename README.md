@@ -69,7 +69,7 @@ sh run_kg_WN18.sh
 <p align="center"><strong>Thanks! / 谢谢! / ありがとう! / merci! / 감사! / Danke! / спасибо! / gracias! ...</strong></p>
 
 ```
-@inproceedings{jiang2024killing,
+@inproceedings{10.1145/3637528.3671742,
   title={Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks},
   author={Jiang, Wenyuan and Wu, Wenwei and Zhang, Le and Yuan, Zixuan and Xiang, Jian and Zhou, Jingbo and Xiong, Hui},
   booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining (KDD'24)},
